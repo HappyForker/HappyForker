@@ -11,6 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyforker&show_icons=true&locale=en&layout=compact" alt="happyforker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happyforker&show_icons=true&locale=en" alt="happyforker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happyforker&theme=mekro&show_icons=true&locale=en" alt="happyforker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happyforker&" alt="happyforker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HappyForker&theme=onedark" /></p>
